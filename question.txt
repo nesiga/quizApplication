@@ -1,0 +1,108 @@
+let questions = [
+    {
+    numb: 1,
+    question: "What does HTML stand for?",
+    answer: "Hyper Text Markup Language",
+    options: [
+      "Hyper Text Preprocessor",
+      "Hyper Text Markup Language",
+      "Hyper Text Multiple Language",
+      "Hyper Tool Multi Language"
+    ]
+  },
+    {
+    numb: 2,
+    question: "What does CSS stand for?",
+    answer: "Cascading Style Sheet",
+    options: [
+      "Common Style Sheet",
+      "Colorful Style Sheet",
+      "Computer Style Sheet",
+      "Cascading Style Sheet"
+    ]
+  },
+    {
+    numb: 3,
+    question: "What does PHP stand for?",
+    answer: "Hypertext Preprocessor",
+    options: [
+      "Hypertext Preprocessor",
+      "Hypertext Programming",
+      "Hypertext Preprogramming",
+      "Hometext Preprocessor"
+    ]
+  },
+    {
+    numb: 4,
+    question: "What does SQL stand for?",
+    answer: "Structured Query Language",
+    options: [
+      "Stylish Question Language",
+      "Stylesheet Query Language",
+      "Statement Question Language",
+      "Structured Query Language"
+    ]
+  },
+    {
+    numb: 5,
+    question: "What does XML stand for?",
+    answer: "eXtensible Markup Language",
+    options: [
+      "eXtensible Markup Language",
+      "eXecutable Multiple Language",
+      "eXTra Multi-Program Language",
+      "eXamine Multiple Language"
+    ]
+  },
+  {
+    numb: 6,
+    question: "who is making the web standards?",
+    answer: "the wide web consortium",
+    options: [
+      "google",
+      "the world wide web consortium",
+      "Microsoft",
+      "Mozila"
+    ]
+  },
+  {
+    numb: 7,
+    question: "inline element are normally displayed without starting a new line",
+    answer: "True",
+    options: [
+      "True",
+      "False"
+    ]
+  },
+  {
+    numb: 8,
+    question: "which character is used to indicate an end tag?",
+    answer: "/",
+    options: [
+      "<",
+      "^",
+      "*",
+      "/"
+    ]
+  },
+  {
+    numb: 9,
+    question: "HTML comments start with<!--and end with-->?",
+    answer: "True",
+    options: [
+      "True",
+      "False"
+    ]
+  },
+  {
+    numb: 10,
+    question: "which HTML attribute specifies an alternate text for an image,if the image cannot be displayed?",
+    answer: "alt",
+    options: [
+      "alt",
+      "src",
+      "longdesc",
+      "title"
+    ]
+  },
+  ];
